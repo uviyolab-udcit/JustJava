@@ -1,4 +1,4 @@
 # JustJava
 JustJava is a coffee ordering app 
 
-![jJustJava app screen shot](jj_screenShots/jj_scrn_shot2b.png "")
+![jJustJava app screen shot](jj_screenShots/jj_scrn_shot3.png "")
