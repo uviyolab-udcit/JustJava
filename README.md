@@ -1,5 +1,5 @@
-# JustJava
-JustJava is a coffee ordering app 
+# Just Java
+Just Java is a coffee ordering app 
 
 ![jJustJava app screen shot](jj_screenShots/jj_scrnshot1.png "")
 
